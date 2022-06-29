@@ -18,7 +18,7 @@ Skills: JAVASCRIPT- ES6- REACT.JS - NODE.JS - EXPRESS.JS - MONGODB - HTML - CSS 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/rakibulislamrabby)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/rakibulislamrabby&show_icons=true&count_private=true)  
 
