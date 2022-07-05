@@ -5,7 +5,13 @@
 I am continuing my BSc in computer science and engineering at Green
 university. I am very passionate about my web development career. my favorite programming language is javascript and I am enjoying working in react js. And also comfortable with using node and express js. In addition to my web development work, I love to play and watch sports.
 
-Skills: JAVASCRIPT- ES6- REACT.JS - NODE.JS - EXPRESS.JS - MONGODB - HTML - CSS - BOOTSTRAP - TAILWINDCSS - FIREBASE - STRIPE.
+Skills:
+✅ JAVASCRIPT     ✅ HTML
+✅ ES6            ✅ CSS
+✅ REACT.JS       ✅ BOOTSTRAP
+✅ NODE.JS        ✅ TAILWINDCSS
+✅ EXPRESS.JS     ✅ FIREBASE
+✅ MONGODB        ✅ STRIPE.
 
 - 🌱 I’m currently learning TYPESCRIPT- NEXT.JS 
 - 💬 Ask me about Web Development 
