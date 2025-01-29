@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rakibul Islam
 #### Web Developer
-![Web Developer](https://media-exp2.licdn.com/dms/image/C5616AQGXYN8EOzaNDw/profile-displaybackgroundimage-shrink_350_1400/0/1657036158184?e=1662595200&v=beta&t=im3YBct2rACsASuUoCxmXS0Pb0o2_ErgSuCkaN9hAOg)
+[Web Developer](https://media-exp2.licdn.com/dms/image/C5616AQGXYN8EOzaNDw/profile-displaybackgroundimage-shrink_350_1400/0/1657036158184?e=1662595200&v=beta&t=im3YBct2rACsASuUoCxmXS0Pb0o2_ErgSuCkaN9hAOg)
 
 I am continuing my BSc in computer science and engineering at Green
 University. I am very passionate about my web development career. my favorite programming language is JavaScript and I am enjoying working in React JS. And also comfortable with using node and express js. In addition to my web development work, I love to play and watch sports.
@@ -13,7 +13,7 @@ Skills:
 ✅ EXPRESS.JS     ✅ FIREBASE
 ✅ MONGODB        ✅ STRIPE.
 
-- 🌱 I’m currently learning TYPESCRIPT- NEXT.JS 
+- 🌱 I’m currently learning TYPESCRIPT
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: https://developer-rakibul.netlify.app/ 
 ![Profile views](https://gpvc.arturio.dev/rakibulislamrabby)  
